@@ -1,6 +1,6 @@
 # Practica1
 
-`codi en línea`
+`Codi en línea`
 ```
 #include <Arduino.h>
 
