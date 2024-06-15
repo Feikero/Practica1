@@ -32,3 +32,7 @@ void loop() {
   delay(2000);               // wait for a second
 }
 ```
+##Explicació del codi
+
+##Diagrama de flux
+![Diagrama de flux PR1](Diagrama de flux PR1.jpg)
